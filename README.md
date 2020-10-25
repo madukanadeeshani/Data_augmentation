@@ -1,2 +1,2 @@
 # Data_augmentation
-This code is for offline data augmentation
+Offline data augmentation python code
